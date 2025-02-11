@@ -9,11 +9,11 @@ This project involves building a machine learning model to classify sonar signal
 ### Installation 
 Clone this repository:
 
-git clone https://github.com/your-username/sonar-data-classification.git
+https://github.com/yobra-gl/Rock-vs-Mine-prediction.git
 
 Navigate to the project folder:
 
-cd sonar-data-classification
+"C:\Users\hp\OneDrive\Desktop\Copy of sonar data.csv"
 
 Create a virtual environment and activate it:
 
@@ -29,3 +29,8 @@ Run the Jupyter Notebook:
 jupyter notebook
 
 Open and run the notebook file containing the project.
+#### Contributing
+Feel free to fork the repository, raise issues, and submit pull requests for improvements.
+
+##### License
+No license has been used in the creation of this project.
